@@ -1,2 +1,3 @@
 # codechef
-my_journey_of_codeChed
+my_journey_of_codeChef
+
